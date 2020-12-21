@@ -12,11 +12,11 @@
     Networking
 
 ### Implementation
-- `cd` into dev_environment, standalone/s3, or standalone/vpc_w_subnet folder
-- `terraform init` to create base terraform folder with plugins
-- `terraform plan` to see proposed changes
-- `terraform apply` to start resource creation with prompt
-- `terraform apply --auto-approve` to start resource creation without prompt
+- [ ] `cd` into dev_environment, standalone/s3, or standalone/vpc_w_subnet folder
+- [ ] `terraform init` to create base terraform folder with plugins
+- [ ] `terraform plan` to see proposed changes
+- [ ] `terraform apply` to start resource creation with prompt
+- [ ] `terraform apply --auto-approve` to start resource creation without prompt
 
 ### Documentation
 - Download: https://www.terraform.io/downloads.html
