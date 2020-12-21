@@ -1,5 +1,10 @@
 # Exploring Terraform
 
+- []
+- [ ]
+* [ ] 
+* []
+
 ### Purpose
 - To explore basic of terraform infrastructure building tool
 
