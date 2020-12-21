@@ -1,18 +1,5 @@
 # Exploring Terraform
 
-### Requirements
-- [ ] Packer Executable (path established)
-- [] test
-# [ ] test
-* [ ] test
-* [] test
-
--[] test
-/[] test
-\[] test
-/ [ ] test
-/ [ ] test
-
 ### Purpose
 - To explore basic of terraform infrastructure building tool
 
