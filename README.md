@@ -1,7 +1,7 @@
 # Exploring Terraform
 
 - []
-- [ ]
+# [ ]
 * [ ] 
 * []
 
